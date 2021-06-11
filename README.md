@@ -1,0 +1,2 @@
+# instagram-no-oficial-GMerlanv-605
+Reto 10. Uso de aplicaciones para diseñar una página web y mostrarla al mundo Considera que para que puedas construir tus aprendizajes sobre el tema es necesario que leas algunos documentos o información que te proporcionamos aquí, así como también y de ser posible puedas visualizar algunos videos que te brindarán más información sobre el tema. Con esto podrás aprender sobre los estándares del diseño web.
